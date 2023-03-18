@@ -1,0 +1,15 @@
+pkgbase = git-sizer
+	pkgdesc = Compute various size metrics for a Git repository, flagging those that might cause problems
+	pkgver = 1.5.0
+	pkgrel = 1
+	url = https://github.com/github/git-sizer
+	arch = any
+	groups = VCS
+	license = MIT
+	options = !strip
+	source = https://github.com/github/git-sizer/releases/download/v1.5.0/git-sizer-1.5.0-windows-amd64.zip
+	source = https://github.com/github/git-sizer/archive/v1.5.0.zip
+	sha256sums = 52093c1cba0bb8e00da14c9eef678eb052fc729c32419415817076f06b5c85d8
+	sha256sums = SKIP
+
+pkgname = git-sizer
